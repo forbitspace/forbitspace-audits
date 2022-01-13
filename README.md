@@ -1,6 +1,6 @@
 </br>
     <div align="center">
-    <img src="https://forbitspace.com/logo-forbitspace.png" width="" alt="forbitspace"/>
+    <img src="https://forbitspace.com/logo-forbitspace.png" width="400" alt="forbitspace"/>
     </div>
 </br>
 
@@ -10,7 +10,8 @@ This repo contains audit report for various smart contracts developed be forbits
 
 
 # Vesting Contract
-    https://hacken.io/wp-content/uploads/2022/01/Forbitspace_04012022SCAudit_Report.pdf
+    - https://hacken.io/wp-content/uploads/2022/01/Forbitspace_04012022SCAudit_Report.pdf
+    - https://www.certik.com/projects/forbitspace
 
 
 # Deployment addresses
